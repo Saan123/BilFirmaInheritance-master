@@ -91,6 +91,7 @@ namespace RecapNedarvning.Tests
 
             //assert
             Assert.AreEqual(600, afgift);
+            //
         }
 
     }
